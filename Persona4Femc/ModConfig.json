@@ -1,0 +1,29 @@
+{
+  "ModId": "Persona4Femc",
+  "ModName": "Persona 4 Femc",
+  "ModAuthor": "Mudkip",
+  "ModVersion": "1.0.0",
+  "ModDescription": "Puts a Femc in Persona 4 Golden",
+  "ModDll": "Persona4Femc.dll",
+  "ModIcon": "Preview.png",
+  "ModR2RManagedDll32": "x86/Persona4Femc.dll",
+  "ModR2RManagedDll64": "x64/Persona4Femc.dll",
+  "ModNativeDll32": "",
+  "ModNativeDll64": "",
+  "Tags": [],
+  "CanUnload": null,
+  "HasExports": null,
+  "IsLibrary": false,
+  "ReleaseMetadataFileName": "Persona4Femc.ReleaseMetadata.json",
+  "PluginData": {},
+  "IsUniversalMod": false,
+  "ModDependencies": [
+    "crifs.v2.hook",
+    "reloaded.sharedlib.hooks"
+  ],
+  "OptionalDependencies": [],
+  "SupportedAppId": [
+    "p4g.exe"
+  ],
+  "ProjectUrl": ""
+}
